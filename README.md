@@ -1,6 +1,6 @@
 Project Title: Building-a-Smart-Search-System-for-Analytics-Vidhya-Courses-Using-Embeddings-and-LLMs
-Project Description:
 
+Project Description:
 This project involves building an intelligent, keyword-based search tool that allows users to efficiently discover free courses on the Analytics Vidhya platform. The system utilizes natural language processing (NLP) and semantic search techniques to enhance traditional keyword search with contextual understanding.
 
 The project follows these key phases:
